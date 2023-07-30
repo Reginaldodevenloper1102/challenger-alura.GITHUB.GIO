@@ -17,6 +17,16 @@ Este aplicativo oferece uma solução prática e eficiente para converter difere
 
 [-CONVERSOR](Conversor_de_Moedas)
 -
+O Desafio
+Desenvolvido um conversor de moedas, com valores prefixados e um conversor de Temperatura.
+
+<h>O conversor de moedas deveria fazer as seguintes conversões e tambem as conversões de Temperaturas:</h>
+
+<li>Reais a Dólar</li>
+<li>Reais a Euro</li>
+<li>Reais a Peso argentino</li>
+<li>Celsius/Fahrenheit</li>
+<li>Fahrenheit/Celsius</li>
 
 Aqui está uma GIF animada para mostrar algo interessante:
 
