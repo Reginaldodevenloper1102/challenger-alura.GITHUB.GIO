@@ -20,3 +20,10 @@ Este aplicativo oferece uma solução prática e eficiente para converter difere
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+# Conversor de Moedas
+
+Aqui está uma GIF animada para mostrar algo interessante:
+
+![Minha animação GIF](https://"![r1](https://github.com/Reginaldodevenloper1102/challenger-alura.GITHUB.GIO/assets/111080927/3a5d0bee-fc86-4cf6-bf15-0827efa18569)
+f")
